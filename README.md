@@ -6,4 +6,4 @@ g++ filename.cpp -o filename
 
 for example !
 
-g++ mem-manage.exe -o mem-manage
+g++ mem-manage.cpp -o mem-manage
